@@ -39,7 +39,7 @@
     --color-indigo-700: #4338ca;
 
     /* --- Gradients --- */
-    --hero-gradient: linear-gradient(135deg, #eff6ff 0%, #e0e7ff 100%);
+    --hero-gradient: linear-gradient(135deg, #d1fae5 0%, #a7f3d0 100%);
 
     /* --- Typography ---
      No external font loaded — uses the OS default sans-serif.
